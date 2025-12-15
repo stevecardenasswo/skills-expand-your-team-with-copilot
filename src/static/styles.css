@@ -281,9 +281,9 @@ section h3 {
 }
 
 .twitter-share:hover {
-  background-color: #1DA1F2;
+  background-color: #000000;
   color: white;
-  border-color: #1DA1F2;
+  border-color: #000000;
 }
 
 .facebook-share:hover {
